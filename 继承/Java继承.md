@@ -109,7 +109,9 @@
 
 
 
-## [目录](https://github.com/xiaoertang/Java-notes/commit/ed66b43390aac1e9e4355962a230d6382e15c0e6)
+## [目录](https://github.com/xiaoertang/Java-notes/blob/master/%E7%9B%AE%E5%BD%95/%E7%9B%AE%E5%BD%95.md)
+
+## [下一节：多态](https://github.com/xiaoertang/Java-notes/blob/master/%E5%A4%9A%E6%80%81/%E5%A4%9A%E6%80%81.md)
 
 
 

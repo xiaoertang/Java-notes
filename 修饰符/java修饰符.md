@@ -76,3 +76,6 @@
 
 **总结一句话就是：静态成员方法只能访问静态成员**
 
+## [目录](https://github.com/xiaoertang/Java-notes/blob/master/%E7%9B%AE%E5%BD%95/%E7%9B%AE%E5%BD%95.md)
+
+## [上一节：泛型](https://github.com/xiaoertang/Java-notes/blob/master/%E6%B3%9B%E5%9E%8B/%E6%B3%9B%E5%9E%8B.md)
